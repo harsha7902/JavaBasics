@@ -9,5 +9,9 @@ public abstract class ParentAirCraft {
 		System.out.println("follow safty guidlines");
 		}
 	public abstract void bodyColor();
+	public void saftyGuilinesnew() {
+		System.out.println("follow new safty guidlines");
+		}
+	
 
 }
